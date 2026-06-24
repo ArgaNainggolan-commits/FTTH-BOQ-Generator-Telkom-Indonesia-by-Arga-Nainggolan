@@ -1,0 +1,82 @@
+{
+  "template1": {
+
+    "cable": [
+      {
+        "designator": "M-AC-OF-SM-ADSS-{core}D",
+        "volume_rule": "length"
+      },
+      {
+        "designator": "J-AC-OF-SM-ADSS-{core}D",
+        "volume_rule": "length"
+      }
+    ],
+
+    "odp": [
+      {
+        "designator": "ODP",
+        "volume_rule": "count"
+      }
+    ],
+
+    "closure": [
+      {
+        "designator": "CLOSURE",
+        "volume_rule": "count"
+      }
+    ],
+
+    "tb": [
+      {
+        "designator": "TB",
+        "volume_rule": "count"
+      }
+    ],
+
+    "te": [
+      {
+        "designator": "TE",
+        "volume_rule": "count"
+      }
+    ]
+  },
+
+  "template2": {
+
+    "cable": [
+      {
+        "designator": "M-DC-OF-SM-{core}D",
+        "volume_rule": "length"
+      },
+      {
+        "designator": "J-DC-OF-SM-{core}D",
+        "volume_rule": "length"
+      }
+    ],
+
+    "odp": [
+      {
+        "designator": "ODP",
+        "volume_rule": "count"
+      }
+    ],
+
+    "odc": [
+      {
+        "designator": "ODC",
+        "volume_rule": "count"
+      }
+    ],
+
+    "handhole": [
+      {
+        "designator": "J-HH-PIT-HA",
+        "volume_rule": "count"
+      },
+      {
+        "designator": "J-HH-PIT-ODP",
+        "volume_rule": "count"
+      }
+    ]
+  }
+}

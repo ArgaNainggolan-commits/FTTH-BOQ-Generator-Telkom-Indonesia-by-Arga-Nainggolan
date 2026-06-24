@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MDN PT3 P7I13 DLT-FAC JL.SEMBAHE NAMORAMBE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<StyleMap id="msn_donut">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_donut</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_donut</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_donut0026100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_donut011600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_donut31420</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_red-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-stars0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_donut">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_donut31420">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_red-stars0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>mirth-vfs://ggzo/http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_target">
+		<IconStyle>
+			<scale>0.816667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_triangle">
+		<IconStyle>
+			<scale>1.65455</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00f7f4</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_donut">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_donut011600">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_red-stars">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>mirth-vfs://ggzo/http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00f7f4</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder id="091AFF653F3F520C62AA">
+		<name>MDN PT3 P7I13 DLT-FAC JL.SEMBAHE NAMORAMBE</name>
+		<open>1</open>
+		<Folder id="02015574CE3F520C62AB">
+			<name>ODC</name>
+			<Placemark id="195926557A3F520C62AB">
+				<name>ODC-DLT-FAC</name>
+				<LookAt>
+					<longitude>98.64965654537957</longitude>
+					<latitude>3.439399498262108</latitude>
+					<altitude>0</altitude>
+					<heading>-9.777992053295265e-05</heading>
+					<tilt>29.4271049083747</tilt>
+					<range>267.5148859470028</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64973875101674,3.439540387747277,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="10D1AAA88C43F520C62AB">
+			<name>KABEL</name>
+			<open>1</open>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-01</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.6497474646799,3.43954820731284,0 98.64966901611106,3.439584248114671,0 98.64942756132065,3.439206554555132,0 98.64918496619586,3.438812107231852,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-02</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished	</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.64920413969769,3.438838720428859,0 98.64838342844953,3.437648156370218,0 98.64820217483205,3.437239892716564,0 98.64796234732736,3.436837765151067,0 98.64771012669846,3.436489011484468,0 98.647484483059,3.436119760225595,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-03</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.64749318232147,3.436120536680809,0 98.64602346636099,3.433744596756942,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-04</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.64602260605044,3.433741294494888,0 98.64577598710585,3.433347652030406,0 98.64552099946776,3.432981105944287,0 98.64525782274727,3.432635437490724,0 98.64510794153686,3.432317223216381,0 98.64505753659952,3.431842891164977,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-05</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.64506911384206,3.43186925823676,0 98.6450215525758,3.431420427092227,0 98.64498647532926,3.430945322635256,0 98.64484349490148,3.430507799673358,0 98.64469278162538,3.430043525677496,0 98.64454925978256,3.429153115215034,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-06</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.64454305674448,3.429147993836855,0 98.64447902188523,3.428702038905133,0 98.64430258738922,3.427333717614847,0 98.64527327412306,3.42593466995422,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-07</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-24-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.64527354877151,3.4259263233212,0 98.64522211125127,3.423173495753926,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>DS-DLT-FE-07-03-03/03-03-01</name>
+				<description>Network Type : Distribution-03
+Specification : AC-OF-SM-ADSS-12-D
+Number of Core : 12
+Fiber Length : 
+Construction Status : finished</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.6460230430288,3.433746169785222,0 98.64577239828353,3.43334613928304,0 98.64618182541325,3.433107674376518,0 98.64650361734579,3.432813726301618,0 98.64675076329407,3.43268436542036,0 98.64728053202802,3.432663654964363,0 98.64773451908258,3.432659518641744,0 98.64904194117956,3.432615391437872,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>SLACK</name>
+			<Placemark>
+				<name>SLACK SUPP</name>
+				<LookAt>
+					<longitude>98.64724724518342</longitude>
+					<latitude>3.435973744729816</latitude>
+					<altitude>0</altitude>
+					<heading>3.118931434510161e-13</heading>
+					<tilt>0</tilt>
+					<range>99.33585623881376</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.647263,3.435733336816923,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SLACK SUPP</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>98.6447800078784</longitude>
+					<latitude>3.431203615711965</latitude>
+					<altitude>0</altitude>
+					<heading>-3.926991108269485e-13</heading>
+					<tilt>0</tilt>
+					<range>121.4880482678147</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64497720939887,3.430951877354027,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SLACK SUPP</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>98.64469965207994</longitude>
+					<latitude>3.43041950865191</latitude>
+					<altitude>0</altitude>
+					<heading>-1.856648795304327e-13</heading>
+					<tilt>0</tilt>
+					<range>135.64742617006</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.644721,3.430040573800053,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SLACK SUPP</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>98.64418186172699</longitude>
+					<latitude>3.427819141434564</latitude>
+					<altitude>0</altitude>
+					<heading>-7.792358969585615e-13</heading>
+					<tilt>0</tilt>
+					<range>153.7731182264571</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_target</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64430812651561,3.427350656858579,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="4E846223903F520C62AB">
+			<name>ODP</name>
+			<open>1</open>
+			<Placemark id="7EC72201DF3F520C62AB">
+				<name>ODP-DLT-FAC/056</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 08
+Construction Status	: FINISH
+
+FAC/D03/056.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64879765298717</longitude>
+					<latitude>3.432628141300899</latitude>
+					<altitude>0</altitude>
+					<heading>3.798774997672987e-13</heading>
+					<tilt>0</tilt>
+					<range>213.3981008060875</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64902778009437,3.43260536786988,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="80E94097883F520C62AB">
+				<name>ODP-DLT-FAC/057</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 09
+Construction Status	: FINISH
+
+FAC/D03/057.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64594350238407</longitude>
+					<latitude>3.433157968528286</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003170584868935438</heading>
+					<tilt>30.00365189991899</tilt>
+					<range>813.0672145138614</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64728100144309,3.432655695464323,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="9525A49C853F520C62AB">
+				<name>ODP-DLT-FAC/055</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 07
+Construction Status	: FINISH
+
+FAC/D03/055.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64876791094026</longitude>
+					<latitude>3.438564902831356</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002722541587372451</heading>
+					<tilt>16.84573907019095</tilt>
+					<range>471.0118140104474</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64920072072195,3.43880351456386,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="AFE12E534A3F520C62AB">
+				<name>ODP-DLT-FAC/054</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 06
+Construction Status	: FINISH
+
+FAC/D03/054.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.6473066616114</longitude>
+					<latitude>3.435888304791991</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001846678085668933</heading>
+					<tilt>16.84572827728741</tilt>
+					<range>466.8658350410843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64750995057697,3.436102614121607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="BD996CD1213F520C62AB">
+				<name>ODP-DLT-FAC/053</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 05
+Construction Status	: FINISH
+
+FAC/D03/053.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64625236919206</longitude>
+					<latitude>3.433441986606574</latitude>
+					<altitude>0</altitude>
+					<heading>5.544220382056666e-05</heading>
+					<tilt>19.76360699351691</tilt>
+					<range>541.7078802300387</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64603027659112,3.433752566176726,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="C7933688813F520C62AB">
+				<name>ODP-DLT-FAC/052</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 04
+Construction Status	: FINISH
+
+FAC/D03/052.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64518502306059</longitude>
+					<latitude>3.431623314271017</latitude>
+					<altitude>0</altitude>
+					<heading>-8.459937603340955e-06</heading>
+					<tilt>19.76359714413016</tilt>
+					<range>538.4642529709607</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64506216220806,3.431868671184779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="D07205C3503F520C62AB">
+				<name>ODP-DLT-FAC/051</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 03
+Construction Status	: FINISH
+
+FAC/D03/051.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64493744980801</longitude>
+					<latitude>3.429726868659631</latitude>
+					<altitude>0</altitude>
+					<heading>2.553041182044145e-11</heading>
+					<tilt>0</tilt>
+					<range>587.2307980824664</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64456284177342,3.429141217199493,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="E612E9A0E33F520C62AB">
+				<name>ODP-DLT-FAC/049</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 01
+Construction Status	: FINISH
+
+FAC/D03/049.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64498177593099</longitude>
+					<latitude>3.423741212218319</latitude>
+					<altitude>0</altitude>
+					<heading>2.627595286445096e-06</heading>
+					<tilt>0</tilt>
+					<range>788.7787780021503</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64523930747292,3.423142601257071,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="FAE2012D423F520C62AB">
+				<name>ODP-DLT-FAC/050</name>
+				<description>Network Type	 : Distribution 03
+Specification ID	: ODP-PB-08-SOLID
+Construction Type	: SOLID
+Core Terminate	: Core 02
+Construction Status	: FINISH
+
+FAC/D03/050.01
+SPL-1:8-01</description>
+				<LookAt>
+					<longitude>98.64506750736086</longitude>
+					<latitude>3.426464833575945</latitude>
+					<altitude>0</altitude>
+					<heading>-9.508389006073123e-06</heading>
+					<tilt>0</tilt>
+					<range>591.0683239298946</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_red-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.64526659483721,3.425893480308175,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="1493C55B52A3F520C62AB">
+			<name>TIANG</name>
+			<Folder id="15B481B2F3D3F520C62AB">
+				<name>TE</name>
+				<Placemark id="165582353B53F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64850362320172</longitude>
+						<latitude>3.438911283350128</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66458819191411</heading>
+						<tilt>8.855061599779525</tilt>
+						<range>570.3455092758704</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64967338077713,3.439567132031821,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="177380D73893F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64850362320168</longitude>
+						<latitude>3.438911283350129</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66458819191409</heading>
+						<tilt>8.855061599779441</tilt>
+						<range>570.3455092765548</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64942561903808,3.439200047779164,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1884CE308D73F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64806746498037</longitude>
+						<latitude>3.438524876125442</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66461434507696</heading>
+						<tilt>8.855061599779525</tilt>
+						<range>570.3455092849464</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64919419049583,3.438813670032068,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="195FD09E1A03F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64753049206855</longitude>
+						<latitude>3.438049153075777</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66464653931374</heading>
+						<tilt>8.855061599779441</tilt>
+						<range>570.3455092791841</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64894058023719,3.43843671114925,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1A6D47BC6DE3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64715677138916</longitude>
+						<latitude>3.437718060420568</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66466894312857</heading>
+						<tilt>8.855061599779525</tilt>
+						<range>570.3455092842269</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64867044080997,3.438011931866161,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1BAFEB824683F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64715677138916</longitude>
+						<latitude>3.437718060420568</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66466894312857</heading>
+						<tilt>8.855061599779525</tilt>
+						<range>570.3455092842269</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64838569353094,3.437650487298047,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1CE4545E2A13F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64655203772166</longitude>
+						<latitude>3.436823548806847</latitude>
+						<altitude>0</altitude>
+						<heading>-41.66470518779512</heading>
+						<tilt>8.855061599779566</tilt>
+						<range>570.3455093272843</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64820465932175,3.437233694295694,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1D00B6A33C53F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64685632561961</longitude>
+						<latitude>3.436683010589999</latitude>
+						<altitude>0</altitude>
+						<heading>-41.64649886551141</heading>
+						<tilt>11.73507607978189</tilt>
+						<range>475.4394098110403</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64797323499629,3.436855220434229,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1EB9C25714A3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64731941022904</longitude>
+						<latitude>3.436938951842647</latitude>
+						<altitude>475.4393928127691</altitude>
+						<heading>-20.87759148872746</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456548164746</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.647731119189,3.436487464574237,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1F581153C523F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64685327363402</longitude>
+						<latitude>3.436150603447934</latitude>
+						<altitude>475.4393928325964</altitude>
+						<heading>-20.87761942669406</heading>
+						<tilt>0.01535334415688138</tilt>
+						<roll>-20.82456548091963</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64748153724442,3.436101435343351,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="203F574C6343F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64638605122784</longitude>
+						<latitude>3.43575637421059</latitude>
+						<altitude>475.4393928340126</altitude>
+						<heading>-20.87764742715519</heading>
+						<tilt>0.01535334415688138</tilt>
+						<roll>-20.82456548087586</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64726219560072,3.435733949427908,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="210876E83083F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64605473799014</longitude>
+						<latitude>3.435213777550576</latitude>
+						<altitude>475.4393928283477</altitude>
+						<heading>-20.8776672798989</heading>
+						<tilt>0.01535334415688138</tilt>
+						<roll>-20.82456548111883</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64697506539758,3.435288611569417,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="22C680F60883F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64568485973716</longitude>
+						<latitude>3.434700813656741</latitude>
+						<altitude>475.4393928325964</altitude>
+						<heading>-20.87768943959823</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.8245654805916</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64672902757148,3.434903914308033,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="231DCEEE3F13F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64568499967716</longitude>
+						<latitude>3.434550153416782</latitude>
+						<altitude>475.4393927886932</altitude>
+						<heading>-20.87768943108273</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456548045984</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64649915545294,3.434540928845262,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="24C376ECE4F3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64568525111173</longitude>
+						<latitude>3.434279457235454</latitude>
+						<altitude>475.4393927971906</altitude>
+						<heading>-20.87768941590959</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456548034913</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64626047409391,3.434137442826736,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="250FDEAA0653F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64554684581852</longitude>
+						<latitude>3.434120105659935</latitude>
+						<altitude>475.4393927986068</altitude>
+						<heading>-20.87769770354848</heading>
+						<tilt>0.01535334418061984</tilt>
+						<roll>-20.82456548012645</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64602046187792,3.433743796595013,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="265F636B7063F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64473603435776</longitude>
+						<latitude>3.43284483400873</latitude>
+						<altitude>475.4393928071042</altitude>
+						<heading>-20.87774626226696</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456547991789</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64551907586642,3.432976989875489,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="27DD18280853F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64473603435776</longitude>
+						<latitude>3.43284483400873</latitude>
+						<altitude>475.4393928071042</altitude>
+						<heading>-20.87774626226696</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456547991789</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64524934819948,3.432627641160089,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2822CFD27613F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64473603435776</longitude>
+						<latitude>3.43284483400873</latitude>
+						<altitude>475.4393928071042</altitude>
+						<heading>-20.87774626226696</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456547991789</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64510354700829,3.432313768665072,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2945C8EDB423F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64473715414664</longitude>
+						<latitude>3.431640546969363</latitude>
+						<altitude>475.4393928340126</altitude>
+						<heading>-20.87774619456871</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.8245654792593</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64505529533723,3.431851817607719,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2A362651E353F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64473771235905</longitude>
+						<latitude>3.431040211165814</latitude>
+						<altitude>475.4393928325964</altitude>
+						<heading>-20.87774616081245</heading>
+						<tilt>0.01535334418061984</tilt>
+						<roll>-20.82456547891336</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64502029632894,3.431406120289353,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2BF2DE4F24C3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64473830657846</longitude>
+						<latitude>3.43040115045386</latitude>
+						<altitude>475.4393927731147</altitude>
+						<heading>-20.87774612471401</heading>
+						<tilt>0.01535334415688138</tilt>
+						<roll>-20.82456547837399</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64497644614637,3.430957047547724,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2CD94178A663F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64440186155019</longitude>
+						<latitude>3.429875441794656</latitude>
+						<altitude>475.4393927943582</altitude>
+						<heading>-20.87776625444134</heading>
+						<tilt>0.01535334410940446</tilt>
+						<roll>-20.8245654782155</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64483473584193,3.430493387728397,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2D14A02E5243F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64438722408754</longitude>
+						<latitude>3.430323670143471</latitude>
+						<altitude>0</altitude>
+						<heading>-0.07766797190172225</heading>
+						<tilt>12.6861648020558</tilt>
+						<range>505.9855705300859</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64469432179848,3.430050427714325,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2E10B75F9CD3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64393299335805</longitude>
+						<latitude>3.428866113412318</latitude>
+						<altitude>0</altitude>
+						<heading>-0.07203760311352214</heading>
+						<tilt>16.40307948793658</tilt>
+						<range>358.3177887758529</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.6445515941591,3.429149524650974,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="2F4CB6BB4483F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.6441111962436</longitude>
+						<latitude>3.428586520788462</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06998518326211377</heading>
+						<tilt>18.3356242235504</tilt>
+						<range>258.7045648458038</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64448754204545,3.428696113114325,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="30192E412173F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64411140099634</longitude>
+						<latitude>3.428361449962269</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06998517101658316</heading>
+						<tilt>18.33562422355036</tilt>
+						<range>258.7045648524885</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64441974615522,3.428245786854698,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="319823EEA1D3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64411178841975</longitude>
+						<latitude>3.42793558152733</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06998514784754686</heading>
+						<tilt>18.33562422355072</tilt>
+						<range>258.7045649599489</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64435066925007,3.427797833532484,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="32D78D15F4C3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64411221652445</longitude>
+						<latitude>3.42746499431061</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06998512224936076</heading>
+						<tilt>18.33562422355082</tilt>
+						<range>258.7045649945754</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64429194276092,3.427324753688926,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="33BC16E4E073F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.6444240606925</longitude>
+						<latitude>3.42690800491512</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06996648469720014</heading>
+						<tilt>18.33562422355082</tilt>
+						<range>258.7045650060944</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64455739343532,3.426957855114961,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="3436B8F302C3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64487753892388</longitude>
+						<latitude>3.426915728553333</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06632042040251655</heading>
+						<tilt>23.12227188367011</tilt>
+						<range>344.9697502287163</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.6448285733741,3.426589793441082,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="352970168553F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64514769662398</longitude>
+						<latitude>3.4263701698094</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06630427960110007</heading>
+						<tilt>23.12227188367036</tilt>
+						<range>344.969750290307</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64509108053632,3.426224675662042,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="36ACCE518753F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64564023500402</longitude>
+						<latitude>3.42579883063198</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06627485721588883</heading>
+						<tilt>23.12227188367044</tilt>
+						<range>344.9697503197599</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64526809601799,3.425924240812899,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="377D10CDD523F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64546303343778</longitude>
+						<latitude>3.425190256337826</latitude>
+						<altitude>0</altitude>
+						<heading>-0.066285440558672</heading>
+						<tilt>23.12227188367048</tilt>
+						<range>344.9697503327513</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64526349355381,3.42545866074793,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="3873AC438493F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64546337280305</longitude>
+						<latitude>3.424812512796538</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06628542028206284</heading>
+						<tilt>23.12227188367051</tilt>
+						<range>344.9697503187986</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64525622106312,3.424992412535166,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="392BB1FB89A3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64546370469952</longitude>
+						<latitude>3.424443082380331</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06628540045403757</heading>
+						<tilt>23.12227188367051</tilt>
+						<range>344.969750326203</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64525560484293,3.424536382386562,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="3ACA752A9973F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64548033663515</longitude>
+						<latitude>3.424308458307642</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06628440526615353</heading>
+						<tilt>23.12227188367049</tilt>
+						<range>344.9697503213093</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64523024800943,3.424102793923281,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="3BDBD0A71823F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64537968939548</longitude>
+						<latitude>3.423139052275947</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06629040203125912</heading>
+						<tilt>23.1227614030193</tilt>
+						<range>483.7359787188648</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.6452241218331,3.42362104844874,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="3C23ECDDB803F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<LookAt>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64537997334362</longitude>
+						<latitude>3.42282249295982</latitude>
+						<altitude>0</altitude>
+						<heading>-0.06629038507503171</heading>
+						<tilt>23.12276140301929</tilt>
+						<range>483.7359787123502</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64522188027635,3.423157307572397,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="3E19C92318B3F520C62AB">
+					<name>TE</name>
+					<open>1</open>
+					<Camera>
+						<gx:TimeStamp><when>2018-03-19T07:49:27Z</when>
+</gx:TimeStamp>
+						<longitude>98.64506005160925</longitude>
+						<latitude>3.433563150684401</latitude>
+						<altitude>475.4393928014393</altitude>
+						<heading>-20.87772685977015</heading>
+						<tilt>0.01535334413314292</tilt>
+						<roll>-20.82456548003552</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_donut0026100</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.6457725769889,3.433341724015665,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="3F7EC07D0F23F520C62AB">
+				<name>TN</name>
+				<Placemark id="402DA714F663F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64642384122145</longitude>
+						<latitude>3.433239050181467</latitude>
+						<altitude>0</altitude>
+						<heading>-3.290085033306417e-12</heading>
+						<tilt>0</tilt>
+						<range>213.2868226179755</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64618156898565,3.433111193497841,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="413E7B17CEB3F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64682270964533</longitude>
+						<latitude>3.433074742157954</latitude>
+						<altitude>0</altitude>
+						<heading>2.388294433539373e-05</heading>
+						<tilt>0</tilt>
+						<range>212.4911115245953</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64649084054514,3.432825791123199,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="425C6721A343F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64682270964533</longitude>
+						<latitude>3.433074742157954</latitude>
+						<altitude>0</altitude>
+						<heading>2.388294433539373e-05</heading>
+						<tilt>0</tilt>
+						<range>212.4911115245953</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64678079398695,3.432701168641894,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="438746B03F03F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64726226149722</longitude>
+						<latitude>3.433007543574311</latitude>
+						<altitude>0</altitude>
+						<heading>5.020253245871041e-05</heading>
+						<tilt>0</tilt>
+						<range>213.8517625830237</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.6472821114708,3.432689518605642,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="442592502E73F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64726226149722</longitude>
+						<latitude>3.433007543574311</latitude>
+						<altitude>0</altitude>
+						<heading>5.020253245871041e-05</heading>
+						<tilt>0</tilt>
+						<range>213.8517625830237</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64773853129716,3.432659895356712,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="45A097724A23F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64819562695277</longitude>
+						<latitude>3.432799838936568</latitude>
+						<altitude>0</altitude>
+						<heading>0.0001060878299672973</heading>
+						<tilt>0</tilt>
+						<range>213.4560057816792</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.6481976099125,3.432638489293839,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="46F21B0046A3F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64819562695277</longitude>
+						<latitude>3.432799838936568</latitude>
+						<altitude>0</altitude>
+						<heading>0.0001060878299672973</heading>
+						<tilt>0</tilt>
+						<range>213.4560057816792</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64863192004755,3.432636521480392,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4720A6E0A943F520C62AB">
+					<name>TN</name>
+					<LookAt>
+						<longitude>98.64819562695277</longitude>
+						<latitude>3.432799838936568</latitude>
+						<altitude>0</altitude>
+						<heading>0.0001060878299672973</heading>
+						<tilt>0</tilt>
+						<range>213.4560057816792</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_donut</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>98.64902793382581,3.432614881979988,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
